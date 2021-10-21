@@ -2,8 +2,7 @@
 
     
 ## شـكرا للـمطورين
-* [جـاسم](https://t.me/UUNZZ) 
-* [مـحمد](https://t.me/RRRD7)
-* [جـمثون](https://t.me/JMTHON)
+* [ريـك](https://t.me/nnnuu) 
+* [قناه ريـك](https://t.me/k4kk44)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/Youtube)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/33xx/Yt
