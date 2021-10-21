@@ -1,13 +1,13 @@
 {
   "name": "تـنصيب بـوت تحميل من الـيوتيوب",
   "description": "A telegram bot To Download Youtube Files Simple and fast 🗂 ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "logo": "https://telegra.ph/file/8819dc0795f00beb8c807.jpg",
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/JMTHON-AR/Youtube",
-  "success_url": "https://t.me/JMTHON",
-  "website": "https://github.com/JMTHON-AR/Youtube",
+  "repository": "https://github.com/33xx/Yt",
+  "success_url": "https://t.me/k4kk44",
+  "website": "https://github.com/33xx/Yt",
   "env": {
         "API_ID": {"description": "هـنا ضع الأيـبي ايدي", "required": true},
         "API_HASH": {"description": "هـنا ضع الأيبـي هاش" , "required": true},
